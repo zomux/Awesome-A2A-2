@@ -85,6 +85,7 @@ No, A2A (Agent2Agent Protocol) and MCP (Model Context Protocol) serve different 
 * [Official A2A Blog](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [Official A2A llms.txt](https://raw.githubusercontent.com/google/A2A/refs/heads/main/llms.txt)
 * [JSON-RPC 2.0](https://www.jsonrpc.org/specification)
+* [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with native A2A protocol support alongside MCP, WebSocket, gRPC, and HTTP.
 
 ## 🤝 Contributing
 
